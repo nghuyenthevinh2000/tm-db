@@ -21,4 +21,4 @@ retract v0.6.5
 // See https://github.com/tecbot/gorocksdb/pull/216
 replace github.com/tecbot/gorocksdb => github.com/roysc/gorocksdb v1.1.1
 
-replace github.com/syndtr/goleveldb => github.com/nghuyenthevinh2000/goleveldb v0.0.0-20221202055600-988bf91f0e58
+replace github.com/syndtr/goleveldb => github.com/nghuyenthevinh2000/goleveldb v0.0.0-20221203145043-0fa1d7c61e03
